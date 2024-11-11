@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\ml.net\\MLNETConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}|MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj|c:\\dev\\ml.net\\mlnetconsoleapp\\mlcoinsmodel_consoleapp1\\mlcoinsmodel.training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}|MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj|solutionrelative:mlcoinsmodel_consoleapp1\\mlcoinsmodel.training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}|MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj|c:\\dev\\ml.net\\mlnetconsoleapp\\mlcoinsmodel_consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}|MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj|solutionrelative:mlcoinsmodel_consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}|MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj|c:\\dev\\ml.net\\mlnetconsoleapp\\mlcoinsmodel_consoleapp1\\mlcoinsmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}|MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj|solutionrelative:mlcoinsmodel_consoleapp1\\mlcoinsmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}|MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj|c:\\dev\\ml.net\\mlnetconsoleapp\\mlcoinsmodel_consoleapp1\\mlcoinsmodel_consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}|MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj|solutionrelative:mlcoinsmodel_consoleapp1\\mlcoinsmodel_consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}|MLNETConsoleApp\\MLNETConsoleApp.csproj|c:\\dev\\ml.net\\mlnetconsoleapp\\mlnetconsoleapp\\mlcoinsmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}|MLNETConsoleApp\\MLNETConsoleApp.csproj|solutionrelative:mlnetconsoleapp\\mlcoinsmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}|MLNETConsoleApp\\MLNETConsoleApp.csproj|c:\\dev\\ml.net\\mlnetconsoleapp\\mlnetconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}|MLNETConsoleApp\\MLNETConsoleApp.csproj|solutionrelative:mlnetconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}|MLNETConsoleApp\\MLNETConsoleApp.csproj|c:\\dev\\ml.net\\mlnetconsoleapp\\mlnetconsoleapp\\mlcoinsmodel.training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}|MLNETConsoleApp\\MLNETConsoleApp.csproj|solutionrelative:mlnetconsoleapp\\mlcoinsmodel.training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MLCoinsModel.training.cs",
+              "DocumentMoniker": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLCoinsModel_ConsoleApp1\\MLCoinsModel.training.cs",
+              "RelativeDocumentMoniker": "MLCoinsModel_ConsoleApp1\\MLCoinsModel.training.cs",
+              "ToolTip": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLCoinsModel_ConsoleApp1\\MLCoinsModel.training.cs",
+              "RelativeToolTip": "MLCoinsModel_ConsoleApp1\\MLCoinsModel.training.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAIA0wKEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:05:32.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MLCoinsModel.mbconfig",
+              "DocumentMoniker": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLCoinsModel_ConsoleApp1\\MLCoinsModel.mbconfig",
+              "RelativeDocumentMoniker": "MLCoinsModel_ConsoleApp1\\MLCoinsModel.mbconfig",
+              "ToolTip": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLCoinsModel_ConsoleApp1\\MLCoinsModel.mbconfig",
+              "RelativeToolTip": "MLCoinsModel_ConsoleApp1\\MLCoinsModel.mbconfig",
+              "Icon": "7f5c38b0-f0bc-4551-a9a8-b4f467cc4670.000012|",
+              "WhenOpened": "2024-11-06T19:50:47.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MLCoinsModel_ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj",
+              "ToolTip": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj",
+              "RelativeToolTip": "MLCoinsModel_ConsoleApp1\\MLCoinsModel_ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T06:11:16.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MLCoinsModel.training.cs",
+              "DocumentMoniker": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLNETConsoleApp\\MLCoinsModel.training.cs",
+              "RelativeDocumentMoniker": "MLNETConsoleApp\\MLCoinsModel.training.cs",
+              "ToolTip": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLNETConsoleApp\\MLCoinsModel.training.cs",
+              "RelativeToolTip": "MLNETConsoleApp\\MLCoinsModel.training.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwBsAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:33:52.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MLCoinsModel.mbconfig",
+              "DocumentMoniker": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLNETConsoleApp\\MLCoinsModel.mbconfig",
+              "RelativeDocumentMoniker": "MLNETConsoleApp\\MLCoinsModel.mbconfig",
+              "ToolTip": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLNETConsoleApp\\MLCoinsModel.mbconfig",
+              "RelativeToolTip": "MLNETConsoleApp\\MLCoinsModel.mbconfig",
+              "Icon": "7f5c38b0-f0bc-4551-a9a8-b4f467cc4670.000012|",
+              "WhenOpened": "2024-11-04T15:33:39.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLCoinsModel_ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "MLCoinsModel_ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLCoinsModel_ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "MLCoinsModel_ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:12:04.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLNETConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MLNETConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Dev\\ml.net\\MLNETConsoleApp\\MLNETConsoleApp\\Program.cs",
+              "RelativeToolTip": "MLNETConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:34:02.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

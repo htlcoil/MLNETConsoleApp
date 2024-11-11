@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNETConsoleApp", "MLNETConsoleApp\MLNETConsoleApp.csproj", "{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLCoinsModel_ConsoleApp1", "MLCoinsModel_ConsoleApp1\MLCoinsModel_ConsoleApp1.csproj", "{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED28CF1-1688-4A65-A0A9-BB3CCB25885B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B6625F-7B27-40AF-B539-5BC8E5ED6435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A3B1EB-5EC1-435B-91EB-BFDDBB8F06D5}
+	EndGlobalSection
+EndGlobal
