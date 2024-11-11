@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "51b4b1ab1d5dbfc957cc5c0d80a2d269",
+        "name": "a9c2f0b9-ido_13_jpg.rf.ade34afba86d56dcffc5ad40e1c3c2b0.jpg",
+        "path": "file:C:/Dev/ml.net/coins/a9c2f0b9-ido_13_jpg.rf.ade34afba86d56dcffc5ad40e1c3c2b0.jpg",
+        "size": {
+            "width": 640,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JAJbZYXOD2",
+            "type": "RECTANGLE",
+            "tags": [
+                "10"
+            ],
+            "boundingBox": {
+                "height": 397.16572265625,
+                "width": 392.045703125,
+                "left": 112.18286830357142,
+                "top": 132.38857421875
+            },
+            "points": [
+                {
+                    "x": 112.18286830357142,
+                    "y": 132.38857421875
+                },
+                {
+                    "x": 504.2285714285714,
+                    "y": 132.38857421875
+                },
+                {
+                    "x": 504.2285714285714,
+                    "y": 529.554296875
+                },
+                {
+                    "x": 112.18286830357142,
+                    "y": 529.554296875
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

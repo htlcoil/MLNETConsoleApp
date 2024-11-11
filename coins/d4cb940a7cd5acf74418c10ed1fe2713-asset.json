@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d4cb940a7cd5acf74418c10ed1fe2713",
+        "name": "8c1c7ed8-IMG_2968_jpg.rf.b62f4d737123ebd6cfaac9da6d5e8549.jpg",
+        "path": "file:C:/Dev/ml.net/coins/8c1c7ed8-IMG_2968_jpg.rf.b62f4d737123ebd6cfaac9da6d5e8549.jpg",
+        "size": {
+            "width": 640,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WkbwQbOQj0",
+            "type": "RECTANGLE",
+            "tags": [
+                "5"
+            ],
+            "boundingBox": {
+                "height": 74.60571986607142,
+                "width": 100.2056919642857,
+                "left": 238.72003348214284,
+                "top": 286.7200055803571
+            },
+            "points": [
+                {
+                    "x": 238.72003348214284,
+                    "y": 286.7200055803571
+                },
+                {
+                    "x": 338.92572544642854,
+                    "y": 286.7200055803571
+                },
+                {
+                    "x": 338.92572544642854,
+                    "y": 361.3257254464286
+                },
+                {
+                    "x": 238.72003348214284,
+                    "y": 361.3257254464286
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

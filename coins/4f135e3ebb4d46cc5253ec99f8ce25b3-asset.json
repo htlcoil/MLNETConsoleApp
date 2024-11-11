@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4f135e3ebb4d46cc5253ec99f8ce25b3",
+        "name": "a9c2f0b9-ido_13_jpg.rf.0a41a33c74919c6bfc1fbfab0b633db2.jpg",
+        "path": "file:C:/Dev/ml.net/coins/a9c2f0b9-ido_13_jpg.rf.0a41a33c74919c6bfc1fbfab0b633db2.jpg",
+        "size": {
+            "width": 640,
+            "height": 640
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fMuurFEqvG",
+            "type": "RECTANGLE",
+            "tags": [
+                "10"
+            ],
+            "boundingBox": {
+                "height": 385.4628487723214,
+                "width": 386.1943080357143,
+                "left": 138.5142857142857,
+                "top": 144.82286551339286
+            },
+            "points": [
+                {
+                    "x": 138.5142857142857,
+                    "y": 144.82286551339286
+                },
+                {
+                    "x": 524.70859375,
+                    "y": 144.82286551339286
+                },
+                {
+                    "x": 524.70859375,
+                    "y": 530.2857142857142
+                },
+                {
+                    "x": 138.5142857142857,
+                    "y": 530.2857142857142
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
